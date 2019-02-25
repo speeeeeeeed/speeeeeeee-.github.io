@@ -44,6 +44,7 @@ figure {
 	font-family: Roboto;
 	font-weight: 300;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/RobotoLight/RobotoLight.eot);
 	src: url(../fonts/RobotoLight/RobotoLight.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoLight/RobotoLight.woff) format("woff"), url(../fonts/RobotoLight/RobotoLight.ttf) format("truetype")
 }
@@ -52,6 +53,7 @@ figure {
 	font-family: Roboto;
 	font-weight: 300;
 	font-style: italic;
+	font-display: auto;
 	src: url(../fonts/RobotoLightItaic/RobotoLightItaic.eot);
 	src: url(../fonts/RobotoLightItaic/RobotoLightItaic.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoLightItaic/RobotoLightItaic.woff) format("woff"), url(../fonts/RobotoLightItaic/RobotoLightItaic.ttf) format("truetype")
 }
@@ -60,6 +62,7 @@ figure {
 	font-family: Roboto;
 	font-weight: 400;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/RobotoRegular/RobotoRegular.eot);
 	src: url(../fonts/RobotoRegular/RobotoRegular.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoRegular/RobotoRegular.woff) format("woff"), url(../fonts/RobotoRegular/RobotoRegular.ttf) format("truetype")
 }
@@ -76,6 +79,7 @@ figure {
 	font-family: Roboto;
 	font-weight: 900;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/RobotoBlack/RobotoBlack.eot);
 	src: url(../fonts/RobotoBlack/RobotoBlack.eot?#iefix) format("embedded-opentype"), url(../fonts/RobotoBlack/RobotoBlack.woff) format("woff"), url(../fonts/RobotoBlack/RobotoBlack.ttf) format("truetype")
 }
@@ -92,6 +96,7 @@ figure {
 	font-family: Helvetica;
 	font-weight: 400;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/HelveticaRegular/HelveticaRegular.eot);
 	src: url(../fonts/HelveticaRegular/HelveticaRegular.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaRegular/HelveticaRegular.woff) format("woff"), url(../fonts/HelveticaRegular/HelveticaRegular.ttf) format("truetype")
 }
@@ -100,6 +105,7 @@ figure {
 	font-family: Helvetica;
 	font-weight: 700;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/HelveticaBold/HelveticaBold.eot);
 	src: url(../fonts/HelveticaBold/HelveticaBold.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaBold/HelveticaBold.woff) format("woff"), url(../fonts/HelveticaBold/HelveticaBold.ttf) format("truetype")
 }
@@ -108,6 +114,7 @@ figure {
 	font-family: Helvetica;
 	font-weight: 900;
 	font-style: normal;
+	font-display: auto;
 	src: url(../fonts/HelveticaBlack/HelveticaBlack.eot);
 	src: url(../fonts/HelveticaBlack/HelveticaBlack.eot?#iefix) format("embedded-opentype"), url(../fonts/HelveticaBlack/HelveticaBlack.woff) format("woff"), url(../fonts/HelveticaBlack/HelveticaBlack.ttf) format("truetype")
 }
