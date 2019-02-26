@@ -32,7 +32,7 @@ body,figure {
 }
 
 @font-face {
-	font-family:Roboto;
+  font-family:Roboto;
   font-display: auto;
   src:url(../fonts/RobotoLight/RobotoLight.eot);
   src:url(../fonts/RobotoLight/RobotoLight.eot?#iefix) format("embedded-opentype"),url(../fonts/RobotoLight/RobotoLight.woff) format("woff"),url(../fonts/RobotoLight/RobotoLight.ttf) format("truetype");
